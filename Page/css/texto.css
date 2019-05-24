@@ -1,0 +1,10 @@
+.inicio {
+  font-size: 7vw; }
+  .inicio .title-part {
+    font-weight: 600;
+    font-family: 'Fredoka One', sans-serif;
+    text-transform: uppercase;
+    display: block;
+    color: #FFFFD9; }
+    .inicio .title-part.line-2 {
+      text-shadow: #0a819e 1px 1px, #0e839e 2px 2px, #12849d 3px 3px, #17869d 4px 4px, #1b889c 5px 5px, #1f8a9c 6px 6px, #238b9b 7px 7px, #278d9b 8px 8px, #2b8f9a 9px 9px, #30919a 10px 10px, #349399 11px 11px, #389499 12px 12px, #3c9698 13px 13px, #409898 14px 14px, #449a97 15px 15px, #489c97 16px 16px, #4d9d96 17px 17px, #519f96 18px 18px, #55a195 19px 19px, #59a395 20px 20px, #5da494 21px 21px, #61a694 22px 22px, #65a893 23px 23px, #6aaa93 24px 24px, #6eac92 25px 25px, #72ad92 26px 26px, #76af91 27px 27px, #7ab191 28px 28px, #7eb390 29px 29px, #83b590 30px 30px, #87b68f 31px 31px, #8bb88e 32px 32px, #8fba8e 33px 33px, #93bc8d 34px 34px, #97bd8d 35px 35px, #9bbf8c 36px 36px, #a0c18c 37px 37px, #a4c38b 38px 38px, #a8c58b 39px 39px, #acc68a 40px 40px, #b0c88a 41px 41px, #b4ca89 42px 42px, #b8cc89 43px 43px, #bdcd88 44px 44px, #c1cf88 45px 45px, #c5d187 46px 46px, #c9d387 47px 47px, #cdd586 48px 48px, #d1d686 49px 49px, #d6d885 50px 50px, #dada85 51px 51px, #dedc84 52px 52px, #e2de84 53px 53px, #e6df83 54px 54px, #eae183 55px 55px, #eee382 56px 56px, #f3e582 57px 57px, #f7e681 58px 58px, #fbe881 59px 59px, #ffea80 60px 60px, #067f9f 0px 0px; }
